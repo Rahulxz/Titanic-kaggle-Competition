@@ -1,7 +1,9 @@
 # Titanic-kaggle-Competition
 These are the different models and different types of ways of implementation of the models for the Kaggle competition on Titanic DataSet. 
-The first one is created without using column transformers and the model used is DecisionTreeClassifier when uploaded the score on kaggle was 0.34
+The first one is created without using column transformers and the model used is DecisionTreeClassifier when uploaded the score on kaggle was 0.34.
+
 **Libarires used**
+
 Pandas 
 
 Numpy
